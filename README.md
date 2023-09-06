@@ -9,7 +9,7 @@ You’ll need to have the following prerequisites before we go any further:
 ### 1. Basic app setup
 ```bash
 # clone this repo from github
-git clone https://github.com/abhimskywalker/flask_paytm_checkout.git
+git clone https://github.com/Akashh2151/flask_paytm_checkout
 # navigative into the folder
 cd flask_paytm_checkout
 # install the requirements

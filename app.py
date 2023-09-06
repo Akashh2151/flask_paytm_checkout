@@ -40,7 +40,7 @@ def index():
         "TXN_AMOUNT": str(amount),
         "CHANNEL_ID": "WEB",
         "MOBILE_NO": "7777777777",
-        "EMAIL": "example@paytm.com",
+        "EMAILID": "example@paytm.com",
         "CALLBACK_URL": "http://127.0.0.1:5000/callback"
     }
 
